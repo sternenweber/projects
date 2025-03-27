@@ -1,4 +1,4 @@
-My contributions:
+My contributions in Java Team Project:
 - Programmed the front end (FE) of the application.
 - Implemented data structures, managed memory, and processed JSON data.
 - Created GUI applications using JavaFX and the MVC architecture.
